@@ -257,11 +257,6 @@
             <colspec value="fill:200px:noGrow"/>
             <colspec value="left:4dlu:noGrow"/>
             <colspec value="fill:200px:grow"/>
-            <constraints>
-              <tabbedpane title="Manipulate data" enabled="false">
-                <tooltip value="This tab provides you with the ability to add or remove data from the cache."/>
-              </tabbedpane>
-            </constraints>
             <properties>
               <toolTipText value=""/>
             </properties>
